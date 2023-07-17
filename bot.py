@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import ApplicationBuilder, ContextTypes, CommandHandler, MessageHandler, filters
 
 tokenbot = "TELEGRAM_BOT_TOKEN"
-anggota = TELEGRAM_CHAT_ID
+chatid = TELEGRAM_CHAT_ID
 portnormal = [NORMAL_PORT]
 
 

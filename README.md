@@ -6,7 +6,7 @@ Before use it, please change on this variable :
 tokenbot, chatid, portnormal, anomalyport, and IP
 
 
-#How to use :
+*How to use :
 > python bot.py
 
 /start command: to start bot

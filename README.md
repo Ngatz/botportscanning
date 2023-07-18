@@ -12,6 +12,7 @@ How to use :
 > python bot.py
 
 command: to start bot
->"/start"
+>/start
+
 command: automating scan and alert in telegram chat
->"/scan" 
+>/scan 

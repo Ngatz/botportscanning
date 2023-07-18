@@ -11,5 +11,7 @@ Install python telegram bot module:
 How to use :
 > python bot.py
 
-/start command: to start bot
-/scan command: automating scan and alert in telegram chat
+command: to start bot
+>/start
+command: automating scan and alert in telegram chat
+>/scan 

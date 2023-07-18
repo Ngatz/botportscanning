@@ -5,6 +5,8 @@ Before use it, please change on this variable :
 
 tokenbot, chatid, portnormal, anomalyport, and IP
 
+Install python telegram bot module:
+>pip install python-telegram-bot
 
 How to use :
 > python bot.py
